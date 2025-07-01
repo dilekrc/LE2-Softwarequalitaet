@@ -49,4 +49,4 @@ Beantworten Sie die folgenden Fragen schriftlich in der Datei 'antworten.md':
 2. **Was ist gut/schlecht an diesem Code?** 
 3. **Welche Probleme können Sie im Hinblick auf Softwarequalität erkennen?** 
 4. **Wie kann man den Code verbessern (konkret)?**
-5. *(Optional)* Vergleiche deine Lösung mit einer anderen Gruppe.
+5. *(Optional)* Vergleichen Sie Ihre Lösung mit einer anderen Gruppe.
