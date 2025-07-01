@@ -45,8 +45,8 @@ Sie können dort ohne lokale Installation:
 
 Beantworten Sie die folgenden Fragen schriftlich in der Datei 'antworten.md':
 
-1. **Was macht der Code (inhaltlich und technisch)?**
-2. **Was ist gut/schlecht an diesem Code?** 
-3. **Welche Probleme können Sie im Hinblick auf Softwarequalität erkennen?** 
-4. **Wie kann man den Code verbessern (konkret)?**
+1. **Welche Funktion erfüllt der vorliegende Code?**
+2. **Welche Aspekte des Codes sind aus Sicht der Softwarequalität positiv bzw. negativ zu bewerten?** 
+3. **Welche konkreten Probleme oder Schäwchen lassen sich identifizieren?** 
+4. **Wie kann der Code gezielt verbessert werden?**
 5. *(Optional)* Vergleichen Sie Ihre Lösung mit einer anderen Gruppe.
