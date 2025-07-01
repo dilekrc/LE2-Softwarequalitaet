@@ -1,6 +1,6 @@
 # LE2-Softwarequalitaet
 
-In dieser übbung analysieren Sie bestehehend Python-code im Hinblick auf die Prinzipien konstruktiver Softwarequalität. Dabei kommt GitHub Codespaces als cloudbasierte Entwicklungsumgebung zum Einsatz.
+In dieser Übung analysieren Sie bestehenden Python-code im Hinblick auf die Prinzipien konstruktiver Softwarequalität. Dabei kommt GitHub Codespaces als cloudbasierte Entwicklungsumgebung zum Einsatz.
 
 ## Konstruktive Softwarequalität
 
@@ -31,7 +31,7 @@ Sie können dort ohne lokale Installation:
 
 
 
-## So geht man vor:
+## So gehen Sie vor:
 
 1. Forken Sie dieses Repository (öffentlich, damit es für andere einsehbar ist)
 2. Öffnen Sie das Repositery in Github Codespaces über den grünen "<> Code"-Button --> *Open with Codespaces*. Falls noch kein Codespace existiert, wählen Sie *"+ New Codespace"*.
