@@ -1,6 +1,6 @@
 # LE2-Softwarequalitaet
 
-In dieser Übung analysieren Sie bestehenden Python-code im Hinblick auf die Prinzipien konstruktiver Softwarequalität. Dabei kommt GitHub Codespaces als cloudbasierte Entwicklungsumgebung zum Einsatz.
+In dieser Übung analysieren Sie bestehenden Python-Code im Hinblick auf die Prinzipien konstruktiver Softwarequalität. Dabei kommt GitHub Codespaces als cloudbasierte Entwicklungsumgebung zum Einsatz.
 
 ## Konstruktive Softwarequalität
 
