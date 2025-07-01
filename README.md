@@ -36,18 +36,6 @@ Sie können dort ohne lokale Installation:
 1. Forken Sie dieses Repository (öffentlich, damit es für andere einsehbar ist)
 2. Öffnen Sie das Repositery in Github Codespaces über den grünen "<> Code"-Button --> *Open with Codespaces*. Falls noch kein Codespace existiert, wählen Sie *"+ New Codespace"*.
 3. Öffnen Sie die Datei 'Übung2.py'
-4. Analysieren Sie den Code anhand der untenstehenden Aufgaben
-5. Schreiben Sie ihre Antworten in eine neue Datei 'antworten.md'
+4. Analysieren Sie den Code anhand der Aufgaben (in dem Ordner Aufgaben Dateiname: "Aufgaben.md")
 
 
-
-## Aufgaben
-
-Beantworten Sie die folgenden Fragen schriftlich in der Datei 'antworten.md':
-
-1. **Welche Funktion erfüllt der vorliegende Code?**
-2. **Welche Aspekte des Codes sind aus Sicht der Softwarequalität positiv bzw. negativ zu bewerten?** 
-3. **Welche konkreten Probleme oder Schwächen lassen sich identifizieren?** 
-4. **Wie kann der Code gezielt verbessert werden?**
-5. **Verbessern Sie den Code nach den Regeln der konstruktiven Softwarequalität**
-6. *(Optional)* Vergleichen Sie Ihre Lösung mit einer anderen Gruppe.
