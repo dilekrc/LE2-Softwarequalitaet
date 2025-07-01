@@ -47,6 +47,6 @@ Beantworten Sie die folgenden Fragen schriftlich in der Datei 'antworten.md':
 
 1. **Welche Funktion erfüllt der vorliegende Code?**
 2. **Welche Aspekte des Codes sind aus Sicht der Softwarequalität positiv bzw. negativ zu bewerten?** 
-3. **Welche konkreten Probleme oder Schäwchen lassen sich identifizieren?** 
+3. **Welche konkreten Probleme oder Schwächen lassen sich identifizieren?** 
 4. **Wie kann der Code gezielt verbessert werden?**
 5. *(Optional)* Vergleichen Sie Ihre Lösung mit einer anderen Gruppe.
