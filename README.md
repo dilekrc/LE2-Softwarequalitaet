@@ -11,7 +11,7 @@ Typische Maßnahmen beinhalten:
 - Einhaltung von Coding-Konventionen,
 - Einsatz statischer Codeanalyse (z. B. 'mypy'),
 - automasierte Tests ('pytest'),
-- Modulasieriung und klare Verantwortlichkeit.
+- Modularisierung und klare Verantwortlichkeit.
 
 Diese Prinzipien helfen dabei, Software **frühzeitig testbar, wartbar und robust** zu gestalten.
 
