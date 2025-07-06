@@ -2,7 +2,7 @@
 
 In dieser Übung analysieren Sie bestehenden Python-Code im Hinblick auf die Prinzipien konstruktiver Softwarequalität. Dabei kommt GitHub Codespaces als cloudbasierte Entwicklungsumgebung zum Einsatz.
 
-## Konsturktive Softwarequalität
+## Konstruktive Softwarequalität
 
 Konstruktive Qualitätssicherung zielt darauf ab, **Fehler früheutig zu vermeiden**, anstatt sie nur im Nachhinein zu finden.
 Typische Maßnahmen beinhalten:
@@ -13,7 +13,7 @@ Typische Maßnahmen beinhalten:
 - automatisierte Tests (z. B. 'pytest'),
 - Modularisierung und klare Verantwortlichkeit.
 
-- Diese prinzipien helfen dabei, Software ***frühzeitig testbar, wartbar und robust** zu gestalten.
+Diese Prinzipien helfen dabei, Software ***frühzeitig testbar, wartbar und robust** zu gestalten.
 
 ## Was ist GitHub Codespaces?
 
