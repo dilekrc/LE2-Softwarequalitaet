@@ -9,7 +9,7 @@
 ## Anleitung zu Aufgabe 4 Pylint
 
 1. Öffnen Sie das Terminal in Ihrem Codespace und geben Sie ein: *pip install pylint*
-2. Führen Sie Pylint auf ihrer Python-Datei aus: pylint Übung2.py
+2. Führen Sie Pylint auf ihrer Python-Datei aus: *pylint Uebung2.py*
 
 Python zeigt Ihnen:
 
