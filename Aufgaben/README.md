@@ -28,6 +28,13 @@ Sie können dort ohne lokale Installation:
 - Tools wie 'mypy', 'pytest', 'fastAPI' usw. nutzen
 - mit Docker arbeiten
 
+## So gehen Sie vor:
+
+1. Forken Sie dieses Repository (öffentlich, damit es für andere einsehbar ist)
+2. Öffnen Sie das Repository in GitHub Codespaces über den grünen "<> Code"-Button --> *Open with Codespaces*
+   Falls noch kein Codespaces existiert, wählen Sie "*+ New Codespace*".
+3. Öffnen Sie die Datei "Übung2.py"
+4. Analysieren Sie den Code anhand der Aufgaben (Datei "Aufgaben.md") und beantworten Sie die Fragen schriftlich. (Datei "antworten.md")
 
 
 
