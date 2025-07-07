@@ -14,7 +14,7 @@
 
 Python zeigt Ihnen:
 
-- Score: : Eine Bewertung von 0-10 (10 = perfekt)
+- Score: Eine Bewertung von 0-10 (10 = perfekt)
 - Kategorien: C (Convention), R (Refactor), W (Warning), E (Error), F (Fatal)
 - Zeilennummern: Wo genau die Probleme sind
 
