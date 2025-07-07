@@ -22,6 +22,6 @@ Notieren Sie sich:
 
 - Den Pylint-Score: ___/10
 - Die 3 häufigsten Problemtypen
-- 2-3 konkrete Verbesserungsvorschläge von Pylint
+
 
 
