@@ -31,7 +31,10 @@ Sie können dort ohne lokale Installation:
 ##  So gehen Sie vor:
 
 1. Erstellen Sie einen Fork dieses Repositories (öffentlich, damit es für andere einsehbar ist).  
-   👉 **Wichtig:** Der Fork muss unter der GitHub-Organisation **[FH-SWF](https://github.com/FH-SWF)** erstellt werden, damit Codespaces verwendet werden können.
+  💡 **Hinweis zum Repository-Namen:**  
+Bitte beim Fork in die GitHub-Organisation **[FH-SWF](https://github.com/FH-SWF)** den folgenden Namen verwenden:  
+`SQ_WS25_GruppeXX`, wobei `XX` durch eure Gruppennummer ersetzt wird (z. B. `SQ_WS25_Gruppe03`).
+
 
 2. Öffnen Sie das Repository in GitHub Codespaces über den grünen "`<> Code`"-Button → *Open with Codespaces*.  
    Falls noch kein Codespace existiert, wählen Sie *+ New Codespace*.
