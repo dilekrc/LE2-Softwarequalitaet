@@ -44,6 +44,10 @@
 3. Führen Sie Pylint aus:  
    `python -m pylint Uebung2.py`
 
+🛠️ **Hinweis zur Umsetzung von Aufgabe 4:**  
+Nach jedem Testschritt sowie nach jeder einzelnen Implementierungsänderung soll ein **separater Commit** gemacht werden.  
+Die Commit-Messages sollten den jeweiligen Schritt möglichst präzise beschreiben (z. B. `Test für Funktion xyz hinzugefügt`, `Fehlerbehandlung ergänzt`, ...).
+
 ---
 
 **Pylint zeigt Ihnen:**
