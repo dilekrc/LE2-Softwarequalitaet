@@ -5,9 +5,8 @@
 
 ### 2. Welche Aspekte des Codes sind aus der Sicht der Softwarequalität positiv bzw. negativ zu bewerten?
 *Antwort:*
-### 3. Wie kann der Code gezielt verbessert werden?
-*Antwort:*
-### 4. Führen Sie eine automasierte Code-Qualitätsanalyse mit Pylint durch und dokumentieren Sie die wichtigsten Ergebnise 
+
+### 3. Führen Sie eine automasierte Code-Qualitätsanalyse mit Pylint durch und dokumentieren Sie die wichtigsten Ergebnise 
 *Antwort:*
 
 
