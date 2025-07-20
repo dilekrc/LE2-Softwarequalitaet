@@ -30,9 +30,16 @@ Sie können dort ohne lokale Installation:
 
 ## So gehen Sie vor:
 
-1. Forken Sie dieses Repository (öffentlich, damit es für andere einsehbar ist)
-2. Öffnen Sie das Repository in GitHub Codespaces über den grünen "<> Code"-Button → *Open with Codespaces*. Falls noch kein Codespace existiert, wählen Sie "*+ New Codespace*".
+1. Erstellen Sie einen Fork dieses Repositories (öffentlich, damit es für andere einsehbar ist).  
+   **Hinweis:** Der Fork muss unter Ihrer Organisation **"FH-SWF"** erstellt werden, damit GitHub Codespaces verwendet werden kann.
+
+2. Öffnen Sie das Repository in GitHub Codespaces über den grünen "`<> Code`"-Button → *Open with Codespaces*.  
+   Falls noch kein Codespace existiert, wählen Sie *+ New Codespace*.
+
 3. Öffnen Sie die Datei [Uebung2.py](./Uebung2.py)
-4. Analysieren Sie den Code anhand der Aufgaben ([Aufgaben.md](./Aufgaben.md)) und beantworten Sie die Fragen schriftlich in der Datei [Antworten.md](./Antworten.md).
+
+4. Analysieren Sie den Code anhand der Aufgaben ([Aufgaben.md](./Aufgaben.md))  
+   und beantworten Sie die Fragen schriftlich in der Datei [Antworten.md](./Antworten.md).
+
 
 
