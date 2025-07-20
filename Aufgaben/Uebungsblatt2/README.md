@@ -28,10 +28,10 @@ Sie können dort ohne lokale Installation:
 - Tools wie 'mypy', 'pytest', 'fastAPI' usw. nutzen
 - mit Docker arbeiten
 
-## So gehen Sie vor:
+##  So gehen Sie vor:
 
 1. Erstellen Sie einen Fork dieses Repositories (öffentlich, damit es für andere einsehbar ist).  
-   **Hinweis:** Der Fork muss unter Ihrer Organisation **"FH-SWF"** erstellt werden, damit GitHub Codespaces verwendet werden kann.
+   👉 **Wichtig:** Der Fork muss unter der GitHub-Organisation **[FH-SWF](https://github.com/FH-SWF)** erstellt werden, damit Codespaces verwendet werden können.
 
 2. Öffnen Sie das Repository in GitHub Codespaces über den grünen "`<> Code`"-Button → *Open with Codespaces*.  
    Falls noch kein Codespace existiert, wählen Sie *+ New Codespace*.
@@ -40,6 +40,3 @@ Sie können dort ohne lokale Installation:
 
 4. Analysieren Sie den Code anhand der Aufgaben ([Aufgaben.md](./Aufgaben.md))  
    und beantworten Sie die Fragen schriftlich in der Datei [Antworten.md](./Antworten.md).
-
-
-
